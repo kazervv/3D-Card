@@ -4,20 +4,20 @@ This project is a simple web page showcasing an interactive 3D card effect using
 
 
 
-## ✨ Features
+## -Features
 
 * **3D Tilt Effect:** The main card (`.card`) tilts on the X and Y axes as the user moves the mouse over the container, giving it a depth-of-field effect using CSS `transform` and `perspective`.
 * **Exaggerated Parallax on Hover:** When the mouse hovers over the container, the card and its internal elements (`.teks img`, `.purchase`) receive an additional `translateZ` transformation, making them appear to pop out.
 * **Animated Background:** A simple yet engaging background animation is implemented using an unordered list (`.box-area li`) with CSS animations to create floating, fading boxes.
 * **Responsive Design:** The layout uses percentages and `clamp()` for some font sizes, making it reasonably adaptable to different screen sizes.
 
-## 🛠️ Technologies Used
+## -Technologies Used
 
 * **HTML5**
 * **CSS3** (with embedded `<style>` block)
 * **JavaScript** (using **jQuery** library)
 
-## 🚀 Getting Started
+## -Getting Started
 
 To run this project, you only need to save the provided code as an HTML file (e.g., `index.html`) and ensure you have the necessary external resources.
 
@@ -42,7 +42,7 @@ To run this project, you only need to save the provided code as an HTML file (e.
 2.  Create an `img` folder and place your image assets inside it, or update the image paths in the HTML and CSS.
 3.  Open `index.html` in your web browser.
 
-## 💻 Code Overview
+## -Code Overview
 
 ### HTML Structure (`<body>`)
 
